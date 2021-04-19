@@ -1,0 +1,9 @@
+{
+  "name": "polyman-util",
+  "version": "0.0.0",
+  "description": "Utilities for Polyman",
+  "main": "./dist/index.js",
+  "repository": "git@github.com:jspencev/polyman-util.git",
+  "author": "John Spence <john.spence.v@gmail.com>",
+  "license": "MIT"
+}
