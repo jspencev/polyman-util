@@ -31,7 +31,9 @@
     "husky": "^6.0.0",
     "source-map": "^0.7.3"
   },
-  "localDependencies": [],
+  "localDependencies": [
+    "node-util"
+  ],
   "localDevDependencies": [
     "build-util",
     "commonignore-js"

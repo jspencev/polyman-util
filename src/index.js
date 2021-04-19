@@ -1,1 +1,5 @@
-console.log('hello world');
+import findRepository from './findRepository';
+
+export {
+  findRepository
+}
