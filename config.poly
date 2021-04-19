@@ -1,5 +1,5 @@
 {
   "repository_name": "jspencev",
   "version": "0.9.4",
-  "babel": false
+  "babel": true
 }

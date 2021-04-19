@@ -1,0 +1,25 @@
+/.poly/*
+/node_modules
+/tmp
+/.env
+/tmp.js
+/yarn-error.log
+
+#! .gitignore
+!/.poly/dependencies
+/dist
+
+#! .npmignore
+/build
+/src
+/.commonignore
+/.envrc
+/.gitignore
+/.npmignore
+/.nvmrc
+/alias.config.js
+/babel.config.js
+/commitlint.config.js
+/config.poly
+/jsconfig.json
+/yarn.lock
